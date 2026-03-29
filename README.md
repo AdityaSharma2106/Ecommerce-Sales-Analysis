@@ -27,7 +27,7 @@ This project analyzes ecommerce sales data using Power BI to uncover key busines
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard/dashboard.png)
+![Dashboard Preview](dashboard/DASHBOARD.png)
 
 ## 🎯 Business Impact
 
